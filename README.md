@@ -1,6 +1,5 @@
 
 
-```
 # 🎌 AniLiberty — AniLibria Client
 
 > Unofficial [AniLibria](https://anilibria.tv) client for **Samsung Smart TV (Tizen)**, **PC**, and **mobile devices**
@@ -162,11 +161,11 @@ anilibria-tizen-wgt/
 ## 📄 License
 
 MIT — an unofficial project, not affiliated with the AniLibria team
-```
+
 
 Arabic version
 
-```md
+
 # 🎌 AniLiberty — عميل AniLibria
 
 > عميل غير رسمي لـ [AniLibria](https://anilibria.tv) لـ **شاشات سامسونغ الذكية (Tizen)** و**الكمبيوتر** و**الأجهزة المحمولة**
@@ -328,9 +327,4 @@ anilibria-tizen-wgt/
 ## 📄 الترخيص
 
 MIT — مشروع غير رسمي، وغير مرتبط بفريق AniLibria
-```
 
-If you want, I can also turn this into:
-- separate files: README.en.md and README.ar.md
-- a ready-to-commit GitHub patch
-- a more polished version with the same style as the original repo tone
